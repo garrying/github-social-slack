@@ -24,7 +24,7 @@ Taking GitHub's newsfeed:
 
     ![](http://i.imgur.com/ALjgRkw.png)
 
-5. Set your Heroku Scheduler to run `make` every hour.
+5. Set your Heroku Scheduler to run `make` every 10 minutes.
 
     ![](http://i.imgur.com/6gOZtuM.png)
 
