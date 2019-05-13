@@ -24,6 +24,6 @@
     "thunkify-wrap": "^1.0.4"
   },
   "engines": {
-    "node": "^0.12.x"
+    "node": "10.15.0"
   }
 }
