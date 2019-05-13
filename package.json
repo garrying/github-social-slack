@@ -16,10 +16,10 @@
   },
   "dependencies": {
     "co": "^4.6.0",
-    "debug": "^2.6.1",
-    "lodash": "^4.17.4",
-    "moment": "^2.17.1",
-    "superagent": "^3.5.0",
+    "debug": "^4.1.1",
+    "lodash": "^4.17.11",
+    "moment": "^2.24.0",
+    "superagent": "^5.0.5",
     "throng": "^4.0.0",
     "thunkify-wrap": "^1.0.4"
   },
