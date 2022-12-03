@@ -21,7 +21,7 @@
     "moment": "^2.24.0",
     "npm-check-updates": "^4.0.1",
     "superagent": "^5.2.1",
-    "throng": "^4.0.0",
+    "throng": "^5.0.0",
     "thunkify-wrap": "^1.0.4"
   },
   "engines": {
