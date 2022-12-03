@@ -20,7 +20,7 @@ Taking GitHub's newsfeed:
 
 3. Get [GitHub token](https://github.com/settings/tokens).
 
-4. Set the Slack URL as `SLACK_POST_URL`, the GitHub token as the `GITHUB_TOKEN`, and the GitHub username as `GITHUB_USER` in the Config Vars section of Heroku:
+4. Set the Slack URL as `SLACK_POST_URL`, the GitHub token as the `SLACK_GITHUB_TOKEN`, and the GitHub username as `SLACK_GITHUB_USER` in the Config Vars section of Heroku:
 
     ![](http://i.imgur.com/ALjgRkw.png)
 
