@@ -5,5 +5,13 @@
   "website": "https://andyjiang.com",
   "addons": ["scheduler:standard"],
   "logo": "https://raw.githubusercontent.com/lambtron/github-social-slack/master/img/github-slack.png",
-  "keywords": ["github", "social", "newsfeed", "events", "notifications", "slack", "post"]
+  "keywords": [
+    "github",
+    "social",
+    "newsfeed",
+    "events",
+    "notifications",
+    "slack",
+    "post"
+  ]
 }
