@@ -15,7 +15,7 @@ clean:
 
 # Run the bot.
 run: node_modules
-	@DEBUG=* node --harmony lib/bot
+	@DEBUG=* node --env-file=.env --harmony lib/bot
 
 # Set env vars.
 set:
